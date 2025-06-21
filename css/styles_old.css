@@ -143,10 +143,6 @@ address {
 
 /*==============================*/
 
-
-
-
-
 /*
 
 .icon-about {
@@ -248,15 +244,7 @@ address {
 }
 
 
-/*//////////////////////////*/
-
-
-
-
-
-
-
-
+/*//////////////////////*/
 
 
 .about-container {
@@ -304,19 +292,9 @@ address {
 }
 
 
-*/
+
 
 /*//////////////////////////*/
-
-
-
-
-
-
-/*
-
-
-
 
 
 
@@ -344,8 +322,6 @@ address {
     background-color: #fff;
     box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 }
-
-*/
 
 .team-container {
     padding: 96px 28px;
@@ -400,29 +376,6 @@ address {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .title-sections-team {
     margin-bottom: 72px;
     font-size: 36px;
@@ -468,10 +421,10 @@ address {
     width: 40px;
     height: 40px;
     color: #fff;
-    /*margin: 8px auto;*/
+    /*margin: 8px auto;
     display: flex;
     align-items: center;
-  }
+}
 
 .icon-link {
     width: 100%;
@@ -499,27 +452,10 @@ address {
     height: 16px;
     fill: #f4f4fd;   
 }
+*/
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*//////////////////////////*/
 
 
 

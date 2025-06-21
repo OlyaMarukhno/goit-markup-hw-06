@@ -579,7 +579,6 @@ button {
     gap: 72px;
 }
 
-
 .item-list-team {
     width: 100%;
     border-radius: 0px 0px 4px 4px;
@@ -591,9 +590,6 @@ button {
     flex-direction: column;
     align-items: center;
 }
-
-
-
 
 .text-team-personal {
     padding: 32px 0;
@@ -689,14 +685,49 @@ button {
         }    
     
     .item-list-team {
-        width: cals((100%-24px)/2);
+        width: calc((100% - 24px)/2);
         max-width: 264px;
-
-  }
-
+    }
 }
 
 @media screen and (min-width: 1158px) {
+    .team-container {
+        max-width: 1440px;
+        padding: 120px 0;
+    }
     
+        .list-team {
+        gap: 24px;
+        justify-content: center;
+    }
+    
+        .item-list-team {
+        width: calc((100% - 72px) / 4);
+        max-width: 264px;
+    }
+}
 
+/*==============portfolio=================*/
+
+
+.portf {
+
+}
+
+.portf-container {
+
+}
+
+.list-port{
+
+}
+
+.item-portf {
+
+}
+
+
+.titel-sections-portf {
+
+    
 }
